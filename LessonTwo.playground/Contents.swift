@@ -1,7 +1,6 @@
 import UIKit
 
 //MARK: - If, else Conditional Statement
-
 var myNumber = 10
 
 if myNumber > 4 {
@@ -31,7 +30,6 @@ if a < 4 && b < 4{
 }
 
 //MARK: - Switch case Conditional Statement
-
 let letter = "C"
 
 switch letter {
@@ -85,7 +83,6 @@ default:
 
 
 //MARK: - Optionals
-
 var someString = ""
 var anotherString: String
 
