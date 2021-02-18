@@ -2,7 +2,6 @@
 
 import UIKit
 
-
 //MARK: - String
 
 var str = "Hello, playground"
